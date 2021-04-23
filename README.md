@@ -4,12 +4,13 @@
 
 [EN] The aim of this work is to study the impact of the COVID-19 pandemic on the Basque Twitter community using unsupervised techniques based on Natural Language Processing. In order to carry out this study, large quantities of tweets were gathered and sorted by time from Basque Twitter users. To analyze the impact of the pandemic, the variability of the content over time has been studied, through quantitative and qualitative changes in the words and emojis that appear in the texts. In the quantitative analysis, the shift at the frequency of the terms was calculated using linear regression over frequencies. In the qualitative analysis, Word Embeddings were used to study the changes in the meaning of the most significant words and emojis at different times during the pandemic.
 
-    <table>
-    <tr>
-    <td> <img src="slopes.png" alt="Slopes"/> </td>
-    <td> <img src="word2vec.png" alt="word2vec"/> </td>
-    </tr>
-    </table>
+<table>
+<tr>
+<td> <img src="slopes.png" alt="Slopes"/> </td>
+<td> <img src="word2vec.png" alt="word2vec"/> </td>
+</tr>
+</table>
+
 
 ```
 Joseba Fernandez de Landa
